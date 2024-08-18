@@ -29,11 +29,3 @@ I like to do cool projects on the side like developing video games or tools to m
 			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" alt="Vue" width="30" height="30"/>
 </p>
 
-## I'm learning
-<p align='left'>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="django" width="30" height="30"/>
-	<img src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" alt="flask" width="40" height="30" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" height="30"/>
-</p>
